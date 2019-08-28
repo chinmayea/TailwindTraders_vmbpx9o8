@@ -13,7 +13,7 @@ namespace TailwindTraders.Mobile.Droid
     {
         public MainApplication(IntPtr handle, JniHandleOwnership transer)
             : base(handle, transer)
-        {
+        {//test
         }
 
         public override void OnCreate()
