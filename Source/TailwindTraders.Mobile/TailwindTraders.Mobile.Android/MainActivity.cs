@@ -65,7 +65,7 @@ namespace TailwindTraders.Mobile.Droid
             DependencyService.Register<IXSnack, XSnackImplementation>();
             DependencyService.Register<IPlatformService, PlatformService>();
         }
-
+        //test
         private void InitTensorflowService()
         {
             var tensorflowLiteService = DependencyService.Get<TensorflowLiteService>();
