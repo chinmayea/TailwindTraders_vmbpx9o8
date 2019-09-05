@@ -4,6 +4,6 @@
     {
         public const string IgnoreReason = "These tests are thought just for checking API contracts while developing.";
         public const string User = "foo";
-        public const string Pass = "foopassword";
+        public const string Pass = "foopassword";//chinmay added a comment
     }
 }
