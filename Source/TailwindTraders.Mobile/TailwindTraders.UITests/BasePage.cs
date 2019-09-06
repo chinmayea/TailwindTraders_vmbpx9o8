@@ -5,7 +5,7 @@ using Xamarin.UITest;
 namespace TailwindTraders.UITests
 {
     public abstract class BasePage
-    {
+    {//et
         protected IApp app => AppManager.App;
 
         protected bool OnAndroid => AppManager.Platform == Platform.Android;
